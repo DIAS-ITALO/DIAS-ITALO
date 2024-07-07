@@ -27,13 +27,6 @@ Estou iniciando no mercado de tecnologia e estou estudando Python, JS e algumas 
 ### Software de gestão condominial
 **Descrição:** Projeto pessoal para aperfeiçoamento de Hard Skill
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&exclude_repo=github-readme-stats,anuraghazra.github.io" />
-</p>
-
 ## 🎓 Educação
 
 - **Cursando Sistemas p/ Internet** - Fatec - Jales (2026)
