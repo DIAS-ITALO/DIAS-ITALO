@@ -19,7 +19,7 @@ Olá, sou Ítalo Dias, um desenvolvedor Full Stack Júnior apaixonado por tecnol
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?DIAS-ITALO&show_icons=true&theme=radical)
 
 ## 🔧 Ferramentas
 
